@@ -7,11 +7,12 @@ fambaa_plates = {
 	directObjectTemplate = "object/tangible/component/armor/armor_segment_enhancement_fambaa.iff",
 	craftingValues = {
 		{"armor_special_type",0,0,0},
-		{"coldeffectiveness",2,4,10},
-		{"armor_health_encumbrance",2,-2,0},
-		{"armor_action_encumbrance",2,-2,0},
-		{"armor_mind_encumbrance",2,-2,0},
-		{"useCount",1,10,0},
+		{"armor_integrity",2000,3000,0},		
+		{"armor_health_encumbrance",-10,-25,0},
+		{"armor_action_encumbrance",-10,-25,0},
+		{"armor_mind_encumbrance",-10,-25,0},
+		{"coldeffectiveness",3,4,10},
+		{"useCount",4,10,0},
 	},
 	customizationStringNames = {},
 	customizationValues = {}

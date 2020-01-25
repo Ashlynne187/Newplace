@@ -7,10 +7,14 @@ brackaset_plates = {
 	directObjectTemplate = "object/tangible/component/armor/armor_segment_enhancement_brackaset.iff",
 	craftingValues = {
 		{"armor_special_type",0,0,0},
-		{"blasteffectiveness",4,12,10},
-		{"armor_action_encumbrance",17,6,0},
-		{"armor_mind_encumbrance",20,5,0},
-		{"useCount",1,7,0},
+		{"armor_effectiveness",2,5,10},
+		{"armor_integrity",2000,3000,0},		
+		{"heateffectiveness",3,6,10},
+		{"coldeffectiveness",3,6,10},
+		{"armor_health_encumbrance",4,0,0},
+		{"armor_action_encumbrance",4,0,0},
+		{"armor_mind_encumbrance",4,0,0},
+		{"useCount",4,10,0},
 	},
 	customizationStringNames = {},
 	customizationValues = {}
