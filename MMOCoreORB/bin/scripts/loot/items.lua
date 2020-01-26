@@ -869,7 +869,7 @@ includeFile("items/weapon/two_handed_sword_cleaver.lua")
 includeFile("items/weapon/two_handed_sword_katana.lua")
 includeFile("items/weapon/two_handed_sword_maul.lua")
 
---wearables sub folder
+--wearables sub-folder
 includeFile("items/wearables/apron/apron_chef_s01.lua")
 includeFile("items/wearables/bandolier/bandolier_s02.lua")
 includeFile("items/wearables/bandolier/bandolier_s03.lua")
@@ -1201,5 +1201,5 @@ includeFile("items/wearables/wookiee/wke_skirt_s02.lua")
 includeFile("items/wearables/wookiee/wke_skirt_s03.lua")
 includeFile("items/wearables/wookiee/wke_skirt_s04.lua")
 
---custom_loots sub folder
+--custom_loots sub-folder
 includeFile("items/custom_loots/acklay_bone_plates.lua")
