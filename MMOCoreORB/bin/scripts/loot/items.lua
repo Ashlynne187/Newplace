@@ -1201,5 +1201,5 @@ includeFile("items/wearables/wookiee/wke_skirt_s02.lua")
 includeFile("items/wearables/wookiee/wke_skirt_s03.lua")
 includeFile("items/wearables/wookiee/wke_skirt_s04.lua")
 
---custom_loots sub-folder
+-- custom_loots sub-folder
 includeFile("items/custom_loots/acklay_bone_plates.lua")
